@@ -1,0 +1,6 @@
+{
+  "name": "Badaku: Permainan Tradisional",
+  "description": "Simulasi permainan papan tradisional Badaku (Congklak) berbasis strategi matematis sesuai Buku Panduan Teknis Komite Olahraga Tradisional Edisi 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
